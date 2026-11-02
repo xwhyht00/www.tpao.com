@@ -1,4 +1,3 @@
-```css
 /* =========================
    TPAO WEBSITE STYLES
    ========================= */
@@ -200,4 +199,9 @@ footer p {
         max-width: 350px;
     }
 }
-```
+.hero-description {
+    color: #ffffff !important;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.8;
+}
